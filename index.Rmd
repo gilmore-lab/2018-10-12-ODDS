@@ -128,6 +128,7 @@ $n=900$ 12-, 18-, 24-mo-olds; $n=30$ sites; $n=65$ launch group members
 
 ## Goings on at Penn State
 
+- [Reimagining IT](https://rit.psu.edu/)
 - Research computing and cyberinfrastructure [(RCCI)](https://rcci.psu.edu/)
 - [ScholarSphere](https://scholarsphere.psu.edu/) and [Data Commons](http://www.datacommons.psu.edu/)
 - [R bootcamp](https://psu-psychology.github.io/r-bootcamp-2018/)
