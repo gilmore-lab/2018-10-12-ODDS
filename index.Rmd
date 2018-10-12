@@ -126,6 +126,12 @@ $n=900$ 12-, 18-, 24-mo-olds; $n=30$ sites; $n=65$ launch group members
 
 <!-- ABCD data releases at NIMH/NDA -->
 
+---
+
+<img src="img/devsec-2018.jpg"/>
+
+<https://www.srcd.org/meetings/special-topic-meetings/devsec18>
+
 ## Goings on at Penn State
 
 - [Reimagining IT](https://rit.psu.edu/)
@@ -153,6 +159,9 @@ $n=900$ 12-, 18-, 24-mo-olds; $n=30$ sites; $n=65$ launch group members
 - Sharing data across levels of analysis (geo- and other linkages)
 - Reproducible workflows with data repositories (e.g., `databraryapi` R package)
 - The 5/5/5 proposal
+
+---
+
 - Data repositories as 'platforms for discovery'
 - Video as data and [documentation](https://dev1.ed-projects.nyu.edu/wikis/docuwiki/doku.php/landing): Why and how
 
@@ -181,6 +190,13 @@ Jayaraman, S., Smith, L.B., Raudies, F. & Gilmore, R.O. (2014). Natural Scene St
 
 <video height="500" controls data-autoplay>
   <source src="mov/Construction.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+
+<video height="500" controls data-autoplay>
+  <source src="mov/ossmy-gilmore-adolph.m4v" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
